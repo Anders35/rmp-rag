@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Johnson's lectures are engaging and well-structured. She's always willing to help during office hours."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant teacher! Prof. Chen makes complex concepts easy to understand and provides great real-world examples."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Thompson knows her subject well, but her lectures can be a bit dry. More interactive sessions would be helpful."
+      },
+      {
+        "professor": "Prof. David Rodriguez",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Prof. Rodriguez is a math genius! His problem-solving techniques have really improved my analytical skills."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Patel's lab sessions are well-organized and informative. She ensures safety while making experiments interesting."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Prof. Wilson seems knowledgeable, but his lectures are hard to follow. More structured content would be appreciated."
+      },
+      {
+        "professor": "Dr. Anna Kowalski",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Kowalski's passion for physics is contagious! Her demonstrations make complex theories come to life."
+      },
+      {
+        "professor": "Prof. Robert Lee",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Prof. Lee's in-depth analysis of literary works is impressive. His essay feedback is particularly helpful."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Dr. Garcia presents interesting topics, but sometimes struggles to manage class discussions effectively."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Prof. Brown's real-world applications of economic theories make the subject relevant and interesting."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Green's field trips and hands-on projects make learning about the environment both fun and impactful."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Prof. O'Brien encourages critical thinking, but his assignments can be overly abstract and confusing."
+      },
+      {
+        "professor": "Dr. Yuki Tanaka",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Dr. Tanaka's cross-cultural perspectives are eye-opening. Her lectures are always thought-provoking."
+      },
+      {
+        "professor": "Prof. Olivia Martinez",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Martinez's passion for art is inspiring. Her virtual museum tours are an excellent learning experience."
+      },
+      {
+        "professor": "Dr. Samuel Okafor",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Dr. Okafor presents balanced viewpoints on complex political issues. His debate sessions are particularly engaging."
+      },
+      {
+        "professor": "Prof. Emma Watson",
+        "subject": "Linguistics",
+        "stars": 3,
+        "review": "Prof. Watson is knowledgeable, but her assignments can be unclear. More examples would be helpful."
+      },
+      {
+        "professor": "Dr. Hassan Ali",
+        "subject": "Engineering",
+        "stars": 5,
+        "review": "Dr. Ali's practical approach to engineering problems is excellent. His industry connections are invaluable for internships."
+      },
+      {
+        "professor": "Prof. Carla Rossi",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Prof. Rossi's ear training exercises have significantly improved my musical abilities. Her feedback is always constructive."
+      },
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Geology",
+        "stars": 2,
+        "review": "Dr. Smith seems disinterested in teaching. His lectures are monotonous and lack engagement with students."
+      },
+      {
+        "professor": "Prof. Brian Altan",
+        "subject": "CompSci and Business",
+        "stars": 5,
+        "review": "Prof Brian is a brilliant lecturer however he often give sudden quizzes to review his students. This works very well!"
+      }
+    ]
+  }
